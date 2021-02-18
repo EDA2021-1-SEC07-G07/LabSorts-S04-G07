@@ -1,3 +1,7 @@
+Juan Sebastián Ortega (Estudiante 1)| js.ortergar1@uniandes.edu.co | 202021703
+
+Yesid Camilo Almanza (Estudiante 2) | y.almanza@uniandes.edu.co | 201921773
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
